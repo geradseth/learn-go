@@ -37,7 +37,7 @@ Use code with caution.
 
 bash
 
-git clone https://github.com/YOUR_USERNAME/learning-go.git
+git clone https://github.com/geradseth/learning-go.git
 cd learning-go
 
 Use code with caution.
